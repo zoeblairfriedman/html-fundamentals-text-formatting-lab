@@ -106,8 +106,8 @@ comments regarding the specific deliverables for this lab.
 
 Run `httpserver` and open the file in browser to see what your HTML looks like.
 If you have the server running, use `ctrl` + `C` to stop it in order to run
-other commands.  Once you've done as the comments request, run the `learn`
-program in the terminal to see whether you've met the tests' expectations.
+other commands.  Once you've done as the comments request, run the `learn test`
+command in the terminal to see whether you've met the tests' expectations.
 
 Keep in mind that after you fix one test, you might face a new one! The tests
 are guiding you.
