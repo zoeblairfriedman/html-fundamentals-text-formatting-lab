@@ -105,10 +105,9 @@ text, they are really understood to have four separate use cases.
 Okay, it is time to apply what we've learned. In the `index.html`, there are
 comments regarding the specific deliverables for this lab.
 
-Open the file in browser to see what your HTML looks like.
-If you have the server running, use `ctrl` + `C` to stop it in order to run
-other commands.  Once you've done as the comments request, run the `learn test`
-command in the terminal to see whether you've met the tests' expectations.
+Open the file in browser to see what your HTML looks like. Once you've done as
+the comments request, run the `learn test` command in the terminal to see
+whether you've met the tests' expectations.
 
 Keep in mind that after you fix one test, you might face a new one! The tests
 are guiding you.
