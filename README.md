@@ -24,9 +24,10 @@ basic HTML skeleton provided, so all we need to focus on is adding content to
 the `body`.
 
 First, let's get started by typing `Hello World` inside the `body` tags. With
-some content written, we can start up `httpserver` and [check out what we have][pages-in-learn-ide].  If you open a web
-tab that points to this you should see the text 'Hello World' displayed on the
-page.
+some content written, we can open the `index.html` file in a browser window (if you
+are using the Learn in-browser IDE, run `httpserver`).
+
+You should see the text 'Hello World' displayed on the page.
 
 Cool, we've got text on the page! Head back to the text editor, and in
 `index.html`, hit `return` twice so you're two lines below `Hello World`. Here,
@@ -125,6 +126,4 @@ appealing.
 ## Resources
 
 - [HTML Tag Reference](https://www.w3schools.com/tags/tag_i.asp)
-
-[pages-in-learn-ide]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
 
